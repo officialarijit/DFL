@@ -1,8 +1,7 @@
-# A Federated Learning Method for Real-time Emotion State Classification from Multi-modal Streaming
+# A Federated Learning Implementation in an HPC Environment for Real-time Emotion State Classification from Multi-modal Streaming
 
-## Piblication link: https://www.sciencedirect.com/science/article/pii/S104620232200072X
+## Piblication link: work in progress
 
-`ABSTRACT:` 
 
 **DATASET** : `DEAP dataset` is required. The experiment is conducted using the `Electrodermal activity(EDA) + Respitory Belt (RB) measurements taken from DEAP dataset`. To download `DEAP dataset` click on : https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
 
