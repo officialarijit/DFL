@@ -1,6 +1,6 @@
 # A Federated Learning Implementation in an HPC Environment for Real-time Emotion State Classification from Multi-modal Streaming
 
-## Piblication link: work in progress
+## Publication link: work in progress
 
 
 **DATASET** : `DEAP dataset` is required. The experiment is conducted using the `Electrodermal activity(EDA) + Respitory Belt (RB) measurements taken from DEAP dataset`. To download `DEAP dataset` click on : https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
