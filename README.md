@@ -1,6 +1,6 @@
 # A Federated Learning Method for Real-time Emotion State Classification from Multi-modal Streaming
 
-## Publication link: https://www.sciencedirect.com/science/article/pii/S104620232200072X
+## Publication link: work in progress
 
 `ABSTRACT:` 
 
