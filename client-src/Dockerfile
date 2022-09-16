@@ -1,7 +1,7 @@
-FROM python:3.6
+FROM python
 
 # set a directory for the app
-WORKDIR /usr/src/app
+WORKDIR /home/gp/arin-app
 
 # copy all the files to the container
 COPY requirements.txt .
