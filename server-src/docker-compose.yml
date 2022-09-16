@@ -1,6 +1,19 @@
-python:
-  image: python
-mqtt:
-  image: mqtt
-  ports: 1883
-  
+version: '2'
+services:
+  python:
+    image: python
+  mqtt: 
+    image: eclipse-mosquitto
+    host: "0.0.0.0"
+    ports:
+      - "1883"
+    expose:
+      - "1883"
+  server:
+    build: .
+    host: "0.0.0.0"
+    ports:
+      -"80" 
+    links:
+      - mqtt
+    

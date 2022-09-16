@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==1.2.0
 astunparse==1.6.3
 cachetools==5.2.0
@@ -51,3 +52,18 @@ Werkzeug==2.2.2
 window-slider==0.8
 wrapt==1.14.1
 zipp==3.8.1
+=======
+numpy
+pandas
+scipy
+keras
+h5py
+joblib
+paho-mqtt
+pyeeg
+PyWavelets
+requests
+scikit-learn
+tensorflow
+python-dotenv
+>>>>>>> dev-branch
