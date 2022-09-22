@@ -26,19 +26,24 @@ prev_global_model = list()
 #=========================================================================
 # Reading these information from config file
 #=========================================================================
-l_rate = os.environ.get('LEARNING_RATE') #Learning rate
+l_rate = float(os.environ.get('LEARNING_RATE')) #Learning rate
 local_model_topic = os.environ.get('MQTT_local_model_receive_topic')
 model_performance_topic = os.environ.get('MQTT_local_model_performance_topic')
 global_server_id = os.environ.get('Global_client_id')
 global_model_topic = os.environ.get('MQTT_global_model_topic')
 folderpath = os.environ.get('Global_model_performance_file')
 MQTTbrokerIP = os.environ.get("MQTT_SERVER_IP")
-mqtt_port = os.environ.get("MQTT_PORT")
+mqtt_port = int(os.environ.get("MQTT_PORT"))
+
+print("Broker IP:",MQTTbrokerIP)
+print("port:",mqtt_port)
+
+
 #=========================================================================
 
 def on_connect(client, userdata, flags, rc):
     if rc ==0:
-        print("Global Server connected to broker successfylly ")
+        print("Global Server connected to broker successfully ")
     else:
         print(f"Failed with code {rc}")
 

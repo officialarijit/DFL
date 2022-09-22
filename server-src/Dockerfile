@@ -1,7 +1,11 @@
-FROM python:3.6
+FROM python:latest
 
-# set a directory for the app
-WORKDIR /home/gp/arin-app
+#set a directory for the app
+WORKDIR /home/app
+
+RUN mkdir -p /home/data
+RUN mkdir -p /home/global_model
+RUN mkdir -p /home/local_model
 
 # copy all the files to the container
 COPY requirements.txt .
