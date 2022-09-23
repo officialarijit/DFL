@@ -13,6 +13,8 @@ from Numpy_to_JSON_utils import *
 from dotenv import load_dotenv
 load_dotenv('.env')
 
+
+print('I am here!')
 global qGSModel, qGSPerfm
 qGSModel = queue.Queue()
 qGSPerfm = queue.Queue()
@@ -22,6 +24,8 @@ global global_model_result, prev_global_model, current_global_model
 global_model_result =[]
 prev_global_model = list()
 
+
+print('This is the start after reading ENV file!')
 
 #=========================================================================
 # Reading these information from config file

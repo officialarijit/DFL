@@ -18,12 +18,17 @@ services:
       - /home/ubuntu/fedserver-data/local_model:/home/local_model
   
   mqtt: 
-    image: eclipse-mosquitto:latest
+    image: toke/mosquitto
+    network_mode: bridge
+    expose: 
+      - 1883
+      - 9001
     ports:
-      - 1883:1883
-      - 9001:9001
+      - "1883:1883"
+      - "9001:9001"
     volumes:
       - /home/ubuntu/mqtt/data:/mosquitto/data
       - /home/ubuntu/mqtt/log:/mosquitto/log
+      - /home/ubuntu/mqtt/config:/mosquitto/config
     restart: unless-stopped
     
