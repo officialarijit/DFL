@@ -13,8 +13,11 @@ from Numpy_to_JSON_utils import *
 from dotenv import load_dotenv
 load_dotenv('.env')
 
+print('-----------------')
+print('GLOBAL SEVER')
+print('-----------------')
 
-print('I am here!')
+
 global qGSModel, qGSPerfm
 qGSModel = queue.Queue()
 qGSPerfm = queue.Queue()
