@@ -4,8 +4,8 @@ scipy
 keras
 h5py
 joblib
-paho-mqtt
 pyeeg
+paho-mqtt
 PyWavelets
 requests
 scikit-learn
