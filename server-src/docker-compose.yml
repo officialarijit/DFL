@@ -1,34 +1,37 @@
-version: "3"
+version: '3.3'
+
+networks:
+  poc-bridge:
+    external: true
+
 
 services:
-
+  mqtt-edge:
+    image: emqx/emqx-edge:latest
+    container_name: edge-broker
+    restart: always
+    environment:
+      - EMQX_LOADED_PLUGINS="emqx_bridge_mqtt,emqx_recon,emqx_retainer,emqx_management,emqx_dashboard"
+      - EMQX_ADMIN_PASSWORD=brokerpw1                                                                                            
+    networks:
+      - poc-bridge   
+    ports:
+      - "18083:18083"
+      - "1883:1883"
+      - "8883:8883"
+      - "8083:8083"
   server:
     image: arijitnandi/fedserver
-    ports: 
-      - 80:80
-    links:
-      - mqtt
-    depends_on: 
-      - mqtt
     env_file:
-      - ./config.env
+      - /home/ubuntu/Fed-ReMECS-Docker/server-src/config.env
     volumes:
       - /home/ubuntu/fedserver-data/data:/home/data
       - /home/ubuntu/fedserver-data/global_model:/home/global_model
       - /home/ubuntu/fedserver-data/local_model:/home/local_model
-  
-  mqtt: 
-    image: toke/mosquitto
-    network_mode: bridge
-    expose: 
-      - 1883
-      - 9001
-    ports:
-      - "1883:1883"
-      - "9001:9001"
-    volumes:
-      - /home/ubuntu/mqtt/data:/mosquitto/data
-      - /home/ubuntu/mqtt/log:/mosquitto/log
-      - /home/ubuntu/mqtt/config:/mosquitto/config
-    restart: unless-stopped
-    
+    depends_on:
+      - mqtt-edge
+    links:
+      - mqtt-edge
+    tty: true
+    networks:
+      - poc-bridge
