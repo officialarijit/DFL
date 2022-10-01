@@ -7,12 +7,13 @@ networks:
 
 services:
   mqtt-edge:
-    image: emqx/emqx-edge:latest
+    image: emqx/emqx:latest
     container_name: edge-broker
     restart: always
     environment:
-      - EMQX_LOADED_PLUGINS="emqx_bridge_mqtt,emqx_recon,emqx_retainer,emqx_management,emqx_dashboard"
-      - EMQX_ADMIN_PASSWORD=brokerpw1                                                                                            
+      - EMQX_NAME=emqtt
+      - EMQX_HOST=84.88.76.46
+      - EMQX_LOADED_PLUGINS="emqx_bridge_mqtt,emqx_recon,emqx_retainer,emqx_management,emqx_dashboard"                                                                                            
     networks:
       - poc-bridge   
     ports:
