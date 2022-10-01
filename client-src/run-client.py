@@ -30,6 +30,20 @@ from sklearn.metrics import f1_score
 load_dotenv('.env')
 
 
+#=========================================================================
+#reading all this configs from the config files
+mqttBroker = os.environ.get("MQTT_SERVER_IP")
+mqtt_port = int(os.environ.get("MQTT_PORT"))
+gm_topic = os.environ.get("MQTT_global_model_topic")
+folderPath = os.environ.get("Local_model_performance_file")
+segment_in_sec = int(os.environ.get('segment_in_sec'))
+
+
+print('MQTT Broker IP:', mqttBroker)
+print('MQTT Broker Port:', mqtt_port)
+
+#=========================================================================
+
 #=================================================================================================
 all_emo = []
 #=================================================================================================
@@ -38,9 +52,9 @@ all_emo = []
 print('---------------------------------------------------------------')
 n = sys.argv[1] #Reading the command line argument passed ['filename.py','passed value/client number']
 
-client_name = 'LocalServer (User)'+n
+client_name = 'LocalServer (User):-> '+n
 
-print(client_name +':>>' +' ' +'Streaming Strated!')
+print(client_name +'-:>>' +' ' +'Streaming Strated!')
 
 p = int(n) #Person number
 
@@ -54,7 +68,7 @@ qLS = queue.Queue() #Queue to store the received message in on_message call back
 
 def on_connect(client, userdata, flags, rc):
     if rc ==0:
-        print("Local Server connected to broker successfylly ")
+        print("Local Server connected to broker successfully ")
     else:
         print(f"Failed with code {rc}")
 
@@ -67,17 +81,6 @@ def on_message(client, userdata, message): #On message callback from MQTT
     print('Global Model Received after FedAvg')
     qLS.put(message)
 
-
-#=========================================================================
-#reading all this configs from the config files
-MQTTbrokerIP = os.environ.get("MQTT_SERVER_IP")
-mqtt_port = os.environ.get("MQTT_PORT")
-gm_topic = os.environ.get("MQTT_global_model_topic")
-folderPath = os.environ.get("Local_model_performance_file")
-segment_in_sec = os.environ.get('segment_in_sec')
-#=========================================================================
-
-mqttBroker = MQTTbrokerIP
 client = mqtt.Client(client_name) #mqtt Client
 client.on_connect = on_connect
 client.connect(mqttBroker, mqtt_port) #mqtt broker connect
