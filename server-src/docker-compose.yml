@@ -2,6 +2,7 @@ version: '3.3'
 
 networks:
   poc-bridge:
+    driver: bridge 
     external: true
 
 
@@ -9,10 +10,12 @@ services:
   mqtt-edge:
     image: emqx/emqx:latest
     container_name: edge-broker
+    env_file: 
+      - /home/ubuntu/Fed-ReMECS-Docker/server-src/config.env
     restart: always
     environment:
       - EMQX_NAME=emqtt
-      - EMQX_HOST=84.88.76.46
+      - EMQX_HOST=MQTT_SERVER_IP
       - EMQX_LOADED_PLUGINS="emqx_bridge_mqtt,emqx_recon,emqx_retainer,emqx_management,emqx_dashboard"                                                                                            
     networks:
       - poc-bridge   
@@ -21,6 +24,8 @@ services:
       - "1883:1883"
       - "8883:8883"
       - "8083:8083"
+    expose:
+      - 1883
   server:
     image: arijitnandi/fedserver
     env_file:
