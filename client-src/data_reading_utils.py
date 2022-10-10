@@ -26,7 +26,7 @@ datapath = os.environ.get('DATA_PATH')
 # EDA data read from files
 ##===================================================
 def eda_data(p):
-    file_eda = datapath +str(p)+'_GSR_data_from_DEAP.csv'
+    file_eda = datapath+'eda_data/' +str(p)+'_GSR_data_from_DEAP.csv'
     print(file_eda)
     eda_sig = pd.read_csv(file_eda,sep=',', header = None, engine='python')
     return eda_sig
@@ -35,7 +35,7 @@ def eda_data(p):
 # Resp data read from files
 ##===================================================
 def resp_data(p):
-    file_resp = datapath +str(p)+'_Respiration_data_from_DEAP.csv'
+    file_resp = datapath+'resp_data/' +str(p)+'_Respiration_data_from_DEAP.csv'
     print(file_resp)
     resp_sig = pd.read_csv(file_resp,sep=',', header = None, engine='python')
     return resp_sig
