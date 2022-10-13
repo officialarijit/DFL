@@ -2,7 +2,7 @@
 # Import important libraries
 #================================================================================================
 import os
-
+import datetime
 import paho.mqtt.client as mqtt
 import time, queue, sys, datetime, json, math, scipy, pywt, time
 import pandas as pd
@@ -14,10 +14,7 @@ from scipy import stats
 from sklearn import preprocessing
 from collections import defaultdict, Counter
 from window_slider import Slider
-
 from dotenv import load_dotenv
-
-
 from feature_extraction_utils import *
 from data_reading_utils import *
 from model_creation import *
@@ -37,7 +34,7 @@ mqtt_port = int(os.environ.get("MQTT_PORT"))
 gm_topic = os.environ.get("MQTT_global_model_topic")
 folderPath = os.environ.get("Local_model_performance_file")
 segment_in_sec = int(os.environ.get('segment_in_sec'))
-
+num_videos = int(os.environ.get('video_sample'))
 
 print('MQTT Broker IP:', mqttBroker)
 print('MQTT Broker Port:', mqtt_port)
@@ -126,7 +123,7 @@ indx = 0
 c=0
 ccc =0
 i =0
-videos = 32 #Total Number of Videos
+videos = num_videos #Total Number of Videos
 #=================================================================================================
 
 print('-----------------------------------------')
@@ -360,7 +357,9 @@ for jj in range(0,videos): #Video loop for each participants
 #===============================================================================
 #Save all the results into CSV file
 #===============================================================================
-fname_fm = folderPath + client_name +'_person_FusionModel'+'_'+'_results.csv'
+tm = datetime.datetime.now().strftime("%Y_%m_%d-%I_%M_%S_%p")
+fname_fm = folderPath +tm +'person_'+n+'_results.csv'
+print(fname_fm)
 column_names = ['Person', 'Video', 'Acc','F1', 'y_act', 'y_pred']
 all_emo = pd.DataFrame(all_emo,columns = column_names)
 all_emo.to_csv(fname_fm)
