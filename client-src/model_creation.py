@@ -24,7 +24,7 @@ def create_model(x,model_name):
     model.add(Dense(math.ceil((2/3)*dim),input_dim=dim,activation='sigmoid'))
     model.add(Dense(9,activation='softmax'))
     # print(model.summary())
-    plot_model(model, show_shapes=True, to_file= model_name+'_Fed-ReMECS_model.png')
+    # plot_model(model, show_shapes=True, to_file= model_name+'_Fed-ReMECS_model.png')
     model.compile(optimizer=sgd,
                 loss='categorical_crossentropy')
     return model
