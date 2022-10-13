@@ -8,6 +8,7 @@ import json
 from json import JSONEncoder
 from federated_utils import *
 from Numpy_to_JSON_utils import *
+from datetime import datetime
 
 
 from dotenv import load_dotenv
@@ -28,7 +29,6 @@ global_model_result =[]
 prev_global_model = list()
 
 
-print('This is the start after reading ENV file!')
 
 #=========================================================================
 # Reading these information from config file
@@ -126,8 +126,8 @@ while True:
             print('Global Model Accuracy:',global_performance[1])
             print('Global Model F1-score:',global_performance[2])
             print('----------------------------------------------------')
-        else:
-            break #No more data from local model
+        #else:
+            #break #No more data from local model
 
     #**********************************************************
     time.sleep(50) #to receive model weights
@@ -204,7 +204,8 @@ while True:
 
 #Global Model Result Save
 folderPath = folderpath
-fname_fm = folderPath +'_Global_Model' +'_'+'_results.csv'
+tm = datetime.now().strftime("%Y_%m_%d-%I_%M_%S_%p")
+fname_fm = folderPath +tm+'_Global_Model' +'_'+'_results.csv'
 column_names = ['Acc', 'F1']
 global_model_result = pd.DataFrame(global_model_result,columns = column_names)
 global_model_result.to_csv(fname_fm)
