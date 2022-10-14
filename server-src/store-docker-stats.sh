@@ -1,0 +1,1 @@
+while true; do sudo docker stats --all --no-stream --format "table {{.ID}}\t{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.MemPerc}}\t{{.NetIO}}\t{{.BlockIO}}\t{{.PIDs}}" | cat >> ./`date -u +"global_server_stats.csv"`; sleep 5; done
