@@ -11,9 +11,9 @@ RUN mkdir -p /home/local_model
 COPY requirements.txt .
 
 # install dependencies
-RUN pip install  -r requirements.txt
+RUN pip3 install  -r requirements.txt
 
 COPY . .
 
 # run the command
-ENTRYPOINT ["python", "run-client.py"]
+ENTRYPOINT ["python3", "run-client.py"]
