@@ -1,0 +1,1335 @@
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.02%     183.6MiB / 15.63GiB   1.15%     1.57kB / 1.11kB   0B / 0B          16
+36f71f295243   edge-broker           0.47%     149.3MiB / 15.63GiB   0.93%     6.32kB / 2.33kB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     183.6MiB / 15.63GiB   1.15%     1.64kB / 1.11kB   0B / 0B          16
+36f71f295243   edge-broker           0.41%     144.9MiB / 15.63GiB   0.91%     6.39kB / 2.33kB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     183.6MiB / 15.63GiB   1.15%     1.7kB / 1.17kB    0B / 0B          16
+36f71f295243   edge-broker           0.32%     143.9MiB / 15.63GiB   0.90%     9.14kB / 4.41kB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     185.1MiB / 15.63GiB   1.16%     884kB / 4.8kB   0B / 0B          16
+36f71f295243   edge-broker           0.42%     144MiB / 15.63GiB     0.90%     756kB / 750kB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     186.5MiB / 15.63GiB   1.17%     2.06MB / 9.29kB   0B / 0B          16
+36f71f295243   edge-broker           1.32%     146.7MiB / 15.63GiB   0.92%     1.95MB / 1.94MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     188MiB / 15.63GiB     1.17%     3.24MB / 14kB     0B / 0B          16
+36f71f295243   edge-broker           0.67%     149.5MiB / 15.63GiB   0.93%     3.29MB / 3.29MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.05%     189.4MiB / 15.63GiB   1.18%     4.56MB / 19.2kB   0B / 0B          16
+36f71f295243   edge-broker           0.71%     150.5MiB / 15.63GiB   0.94%     4.48MB / 4.48MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     189.3MiB / 15.63GiB   1.18%     4.71MB / 19.8kB   0B / 0B          16
+36f71f295243   edge-broker           0.46%     150.7MiB / 15.63GiB   0.94%     4.78MB / 4.77MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.8MiB / 15.63GiB   1.24%     4.71MB / 169kB   0B / 0B          33
+36f71f295243   edge-broker           0.23%     149.9MiB / 15.63GiB   0.94%     4.97MB / 9.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.8MiB / 15.63GiB   1.24%     4.71MB / 169kB   0B / 0B          33
+36f71f295243   edge-broker           0.56%     149.9MiB / 15.63GiB   0.94%     4.97MB / 9.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.8MiB / 15.63GiB   1.24%     4.71MB / 169kB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     149.6MiB / 15.63GiB   0.93%     4.97MB / 9.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.8MiB / 15.63GiB   1.24%     4.71MB / 169kB   0B / 0B          33
+36f71f295243   edge-broker           0.43%     148.5MiB / 15.63GiB   0.93%     4.97MB / 9.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     198.8MiB / 15.63GiB   1.24%     5.45MB / 173kB    0B / 0B          33
+36f71f295243   edge-broker           0.40%     148.4MiB / 15.63GiB   0.93%     5.57MB / 10.2MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     198.8MiB / 15.63GiB   1.24%     6.19MB / 177kB    0B / 0B          33
+36f71f295243   edge-broker           0.88%     148.4MiB / 15.63GiB   0.93%     6.61MB / 11.2MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     198.8MiB / 15.63GiB   1.24%     7.66MB / 184kB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     148.7MiB / 15.63GiB   0.93%     7.8MB / 12.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     198.8MiB / 15.63GiB   1.24%     8.69MB / 189kB    0B / 0B          33
+36f71f295243   edge-broker           0.88%     150.1MiB / 15.63GiB   0.94%     9.29MB / 13.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.9MiB / 15.63GiB   1.24%     9.43MB / 193kB    0B / 0B          33
+36f71f295243   edge-broker           0.39%     150.6MiB / 15.63GiB   0.94%     9.73MB / 14.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.9MiB / 15.63GiB   1.24%     9.43MB / 193kB    0B / 0B          33
+36f71f295243   edge-broker           0.36%     150.4MiB / 15.63GiB   0.94%     9.73MB / 14.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     198.9MiB / 15.63GiB   1.24%     9.43MB / 193kB    0B / 0B          33
+36f71f295243   edge-broker           0.35%     149.9MiB / 15.63GiB   0.94%     9.73MB / 14.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     199MiB / 15.63GiB     1.24%     9.43MB / 342kB    0B / 0B          33
+36f71f295243   edge-broker           0.52%     146.1MiB / 15.63GiB   0.91%     9.92MB / 19.2MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     199MiB / 15.63GiB     1.24%     9.43MB / 342kB    0B / 0B          33
+36f71f295243   edge-broker           0.36%     146.1MiB / 15.63GiB   0.91%     9.92MB / 19.2MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     199MiB / 15.63GiB     1.24%     9.73MB / 344kB    0B / 0B          33
+36f71f295243   edge-broker           0.63%     146.7MiB / 15.63GiB   0.92%     10.4MB / 19.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.14%     199MiB / 15.63GiB     1.24%     10.8MB / 348kB    0B / 0B          33
+36f71f295243   edge-broker           0.53%     148.4MiB / 15.63GiB   0.93%     11.3MB / 20.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.14%     199MiB / 15.63GiB     1.24%     12MB / 354kB      0B / 0B          33
+36f71f295243   edge-broker           0.64%     149.3MiB / 15.63GiB   0.93%     12.6MB / 21.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     199.1MiB / 15.63GiB   1.24%     13.3MB / 359kB    0B / 0B          33
+36f71f295243   edge-broker           0.62%     149.5MiB / 15.63GiB   0.93%     13.7MB / 22.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200MiB / 15.63GiB     1.25%     14.2MB / 363kB   0B / 0B          33
+36f71f295243   edge-broker           0.60%     149.5MiB / 15.63GiB   0.93%     14.7MB / 24MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200MiB / 15.63GiB     1.25%     14.2MB / 363kB   0B / 0B          33
+36f71f295243   edge-broker           0.47%     147.3MiB / 15.63GiB   0.92%     14.7MB / 24MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200MiB / 15.63GiB     1.25%     14.2MB / 363kB   0B / 0B          33
+36f71f295243   edge-broker           0.34%     146.8MiB / 15.63GiB   0.92%     14.7MB / 24MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200MiB / 15.63GiB     1.25%     14.2MB / 363kB   0B / 0B          33
+36f71f295243   edge-broker           0.74%     146.4MiB / 15.63GiB   0.91%     14.8MB / 24MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200MiB / 15.63GiB     1.25%     14.2MB / 364kB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     146.2MiB / 15.63GiB   0.91%     14.8MB / 24MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     200.1MiB / 15.63GiB   1.25%     14.4MB / 514kB    0B / 0B          33
+36f71f295243   edge-broker           0.38%     146.2MiB / 15.63GiB   0.91%     14.9MB / 28.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     200.1MiB / 15.63GiB   1.25%     15.1MB / 517kB   0B / 0B          33
+36f71f295243   edge-broker           0.72%     146.2MiB / 15.63GiB   0.91%     16MB / 29.9MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.1MiB / 15.63GiB   1.25%     16.3MB / 523kB    0B / 0B          33
+36f71f295243   edge-broker           0.98%     146.2MiB / 15.63GiB   0.91%     17.2MB / 31.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     200.1MiB / 15.63GiB   1.25%     17.7MB / 529kB    0B / 0B          33
+36f71f295243   edge-broker           0.74%     146.4MiB / 15.63GiB   0.91%     18.6MB / 32.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     200.2MiB / 15.63GiB   1.25%     19MB / 534kB      0B / 0B          33
+36f71f295243   edge-broker           0.83%     147.1MiB / 15.63GiB   0.92%     19.6MB / 33.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.2MiB / 15.63GiB   1.25%     19MB / 535kB      0B / 0B          33
+36f71f295243   edge-broker           0.42%     147.4MiB / 15.63GiB   0.92%     19.8MB / 33.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.2MiB / 15.63GiB   1.25%     19MB / 535kB      0B / 0B          33
+36f71f295243   edge-broker           0.38%     147.4MiB / 15.63GiB   0.92%     19.8MB / 33.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.2MiB / 15.63GiB   1.25%     19MB / 535kB      0B / 0B          33
+36f71f295243   edge-broker           0.45%     147.4MiB / 15.63GiB   0.92%     19.8MB / 33.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.2MiB / 15.63GiB   1.25%     19MB / 535kB      0B / 0B          33
+36f71f295243   edge-broker           0.57%     146.6MiB / 15.63GiB   0.92%     19.8MB / 33.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     200.2MiB / 15.63GiB   1.25%     19MB / 535kB      0B / 0B          33
+36f71f295243   edge-broker           0.39%     146.6MiB / 15.63GiB   0.92%     19.8MB / 33.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     200.7MiB / 15.63GiB   1.25%     19.8MB / 538kB    0B / 0B          33
+36f71f295243   edge-broker           0.36%     146.8MiB / 15.63GiB   0.92%     20.5MB / 34.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   21.22%    203.7MiB / 15.63GiB   1.27%     20.8MB / 693kB    0B / 0B          33
+36f71f295243   edge-broker           1.04%     147.3MiB / 15.63GiB   0.92%     21.9MB / 40.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     203.7MiB / 15.63GiB   1.27%     22.3MB / 700kB    0B / 0B          33
+36f71f295243   edge-broker           1.25%     148.3MiB / 15.63GiB   0.93%     23.2MB / 41.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     203.7MiB / 15.63GiB   1.27%     23.4MB / 704kB    0B / 0B          33
+36f71f295243   edge-broker           1.16%     150.8MiB / 15.63GiB   0.94%     24.5MB / 43.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     23.8MB / 706kB    0B / 0B          33
+36f71f295243   edge-broker           0.61%     151.3MiB / 15.63GiB   0.95%     24.8MB / 43.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     23.8MB / 706kB    0B / 0B          33
+36f71f295243   edge-broker           0.54%     151.4MiB / 15.63GiB   0.95%     24.8MB / 43.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     23.8MB / 706kB    0B / 0B          33
+36f71f295243   edge-broker           0.22%     151.3MiB / 15.63GiB   0.95%     24.8MB / 43.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     23.8MB / 706kB    0B / 0B          33
+36f71f295243   edge-broker           1.64%     151.4MiB / 15.63GiB   0.95%     24.8MB / 43.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     23.8MB / 707kB    0B / 0B          33
+36f71f295243   edge-broker           0.20%     150.4MiB / 15.63GiB   0.94%     24.8MB / 43.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     203.7MiB / 15.63GiB   1.27%     24.4MB / 709kB   0B / 0B          33
+36f71f295243   edge-broker           0.84%     148.1MiB / 15.63GiB   0.93%     25.4MB / 44MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     203.7MiB / 15.63GiB   1.27%     25.5MB / 714kB    0B / 0B          33
+36f71f295243   edge-broker           0.64%     148.1MiB / 15.63GiB   0.93%     26.4MB / 44.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     203.7MiB / 15.63GiB   1.27%     26.5MB / 718kB    0B / 0B          33
+36f71f295243   edge-broker           1.18%     147.6MiB / 15.63GiB   0.92%     27.7MB / 46.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.15%     204.5MiB / 15.63GiB   1.28%     27.9MB / 724kB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     147.6MiB / 15.63GiB   0.92%     29MB / 47.5MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           0.57%     147.6MiB / 15.63GiB   0.92%     29.9MB / 53.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           0.33%     147.6MiB / 15.63GiB   0.92%     29.9MB / 53.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           2.24%     147.6MiB / 15.63GiB   0.92%     29.9MB / 53.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           0.98%     146.9MiB / 15.63GiB   0.92%     29.9MB / 53.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           0.36%     146.9MiB / 15.63GiB   0.92%     29.9MB / 53.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     28.7MB / 879kB    0B / 0B          33
+36f71f295243   edge-broker           0.66%     147.1MiB / 15.63GiB   0.92%     30.1MB / 53.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     29.9MB / 884kB   0B / 0B          33
+36f71f295243   edge-broker           0.72%     146.9MiB / 15.63GiB   0.92%     31MB / 54.3MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     30.9MB / 889kB    0B / 0B          33
+36f71f295243   edge-broker           0.42%     147MiB / 15.63GiB     0.92%     32.2MB / 55.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.13%     204.7MiB / 15.63GiB   1.28%     32.3MB / 895kB    0B / 0B          33
+36f71f295243   edge-broker           0.62%     147MiB / 15.63GiB     0.92%     33.4MB / 56.8MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     204.7MiB / 15.63GiB   1.28%     33.5MB / 900kB    0B / 0B          33
+36f71f295243   edge-broker           0.39%     147MiB / 15.63GiB     0.92%     34.8MB / 58.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     33.5MB / 900kB    0B / 0B          33
+36f71f295243   edge-broker           1.13%     147MiB / 15.63GiB     0.92%     34.8MB / 58.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     33.5MB / 1.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     147MiB / 15.63GiB     0.92%     35MB / 63.2MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     33.5MB / 1.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.52%     147MiB / 15.63GiB     0.92%     35MB / 63.2MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     33.5MB / 1.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     147MiB / 15.63GiB     0.92%     35MB / 63.2MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     33.5MB / 1.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.38%     147MiB / 15.63GiB     0.92%     35MB / 63.2MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.7MiB / 15.63GiB   1.28%     34.3MB / 1.06MB   0B / 0B          33
+36f71f295243   edge-broker           0.70%     147MiB / 15.63GiB     0.92%     35.9MB / 64.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     204.7MiB / 15.63GiB   1.28%     35.7MB / 1.06MB   0B / 0B          33
+36f71f295243   edge-broker           0.90%     147MiB / 15.63GiB     0.92%     36.8MB / 65MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.7MiB / 15.63GiB   1.28%     36.9MB / 1.07MB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     147MiB / 15.63GiB     0.92%     38.2MB / 66.4MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     204.7MiB / 15.63GiB   1.28%     38.1MB / 1.07MB   0B / 0B          33
+36f71f295243   edge-broker           1.86%     147MiB / 15.63GiB     0.92%     39.5MB / 67.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     38.4MB / 1.07MB   0B / 0B          33
+36f71f295243   edge-broker           0.30%     147MiB / 15.63GiB     0.92%     39.9MB / 68.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     38.4MB / 1.07MB   0B / 0B          33
+36f71f295243   edge-broker           0.51%     147MiB / 15.63GiB     0.92%     39.9MB / 68.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     38.4MB / 1.07MB   0B / 0B          33
+36f71f295243   edge-broker           0.75%     145.8MiB / 15.63GiB   0.91%     39.9MB / 68.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     38.4MB / 1.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.38%     145.4MiB / 15.63GiB   0.91%     40.1MB / 73MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     38.4MB / 1.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.57%     145.4MiB / 15.63GiB   0.91%     40.1MB / 73MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     39MB / 1.23MB     0B / 0B          33
+36f71f295243   edge-broker           0.67%     145.4MiB / 15.63GiB   0.91%     40.7MB / 73.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     39.9MB / 1.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.72%     145.4MiB / 15.63GiB   0.91%     41.8MB / 74.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.13%     204.7MiB / 15.63GiB   1.28%     41.4MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     145.8MiB / 15.63GiB   0.91%     42.9MB / 75.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.7MiB / 15.63GiB   1.28%     42.5MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.88%     146.2MiB / 15.63GiB   0.91%     44.4MB / 77.3MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     43.3MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.34%     146.3MiB / 15.63GiB   0.91%     45MB / 77.9MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     43.3MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.55%     146.3MiB / 15.63GiB   0.91%     45MB / 77.9MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     43.3MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     146.3MiB / 15.63GiB   0.91%     45MB / 77.9MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     43.3MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     146.3MiB / 15.63GiB   0.91%     45MB / 77.9MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     43.3MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.34%     146.5MiB / 15.63GiB   0.91%     45MB / 77.9MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.7MiB / 15.63GiB   1.28%     43.4MB / 1.24MB   0B / 0B          33
+36f71f295243   edge-broker           1.66%     146.6MiB / 15.63GiB   0.92%     45.7MB / 83.5MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.7MiB / 15.63GiB   1.28%     44.7MB / 1.4MB    0B / 0B          33
+36f71f295243   edge-broker           0.79%     146.5MiB / 15.63GiB   0.92%     46.5MB / 84.2MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.12%     204.7MiB / 15.63GiB   1.28%     45.7MB / 1.4MB    0B / 0B          33
+36f71f295243   edge-broker           0.86%     147.1MiB / 15.63GiB   0.92%     47.9MB / 85.6MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.7MiB / 15.63GiB   1.28%     47.3MB / 1.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     148.5MiB / 15.63GiB   0.93%     49.1MB / 86.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.41MB   0B / 0B          33
+36f71f295243   edge-broker           1.13%     148.6MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.49%     148.6MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.89%     148.7MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     148.6MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.42MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     148.4MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     48.2MB / 1.42MB   0B / 0B          33
+36f71f295243   edge-broker           0.67%     148.4MiB / 15.63GiB   0.93%     50.2MB / 88MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     49.1MB / 1.42MB   0B / 0B          33
+36f71f295243   edge-broker           0.78%     147.4MiB / 15.63GiB   0.92%     51.3MB / 89MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.7MiB / 15.63GiB   1.28%     50.5MB / 1.43MB   0B / 0B          33
+36f71f295243   edge-broker           0.73%     147.1MiB / 15.63GiB   0.92%     52.4MB / 90.1MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.7MiB / 15.63GiB   1.28%     51.6MB / 1.58MB   0B / 0B          33
+36f71f295243   edge-broker           1.31%     147.4MiB / 15.63GiB   0.92%     54MB / 96.5MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.7MiB / 15.63GiB   1.28%     52.8MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           1.35%     150.2MiB / 15.63GiB   0.94%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.1MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.44%     150.4MiB / 15.63GiB   0.94%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.1MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.78%     150.2MiB / 15.63GiB   0.94%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.1MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.37%     150.2MiB / 15.63GiB   0.94%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.1MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.37%     150.3MiB / 15.63GiB   0.94%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.1MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.44%     148MiB / 15.63GiB     0.92%     55.4MB / 97.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.7MiB / 15.63GiB   1.28%     53.7MB / 1.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.77%     146.9MiB / 15.63GiB   0.92%     56.2MB / 98.7MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     204.7MiB / 15.63GiB   1.28%     54.8MB / 1.6MB    0B / 0B          33
+36f71f295243   edge-broker           0.99%     147.3MiB / 15.63GiB   0.92%     57.4MB / 99.9MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     56.2MB / 1.6MB   0B / 0B          33
+36f71f295243   edge-broker           0.59%     147.2MiB / 15.63GiB   0.92%     58.6MB / 101MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.7MiB / 15.63GiB   1.28%     57.6MB / 1.61MB   0B / 0B          33
+36f71f295243   edge-broker           0.64%     146.8MiB / 15.63GiB   0.92%     59.7MB / 102MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     58MB / 1.77MB    0B / 0B          33
+36f71f295243   edge-broker           0.30%     146.8MiB / 15.63GiB   0.92%     60.5MB / 108MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     58MB / 1.77MB    0B / 0B          33
+36f71f295243   edge-broker           0.51%     146.8MiB / 15.63GiB   0.92%     60.5MB / 108MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     58MB / 1.77MB    0B / 0B          33
+36f71f295243   edge-broker           0.68%     146.8MiB / 15.63GiB   0.92%     60.5MB / 108MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     58MB / 1.77MB    0B / 0B          33
+36f71f295243   edge-broker           0.32%     146.8MiB / 15.63GiB   0.92%     60.5MB / 108MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     58MB / 1.77MB    0B / 0B          33
+36f71f295243   edge-broker           0.38%     146.8MiB / 15.63GiB   0.92%     60.5MB / 108MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     204.8MiB / 15.63GiB   1.28%     58.7MB / 1.77MB   0B / 0B          33
+36f71f295243   edge-broker           0.84%     146.8MiB / 15.63GiB   0.92%     61MB / 108MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.8MiB / 15.63GiB   1.28%     59.6MB / 1.77MB   0B / 0B          33
+36f71f295243   edge-broker           0.83%     146.8MiB / 15.63GiB   0.92%     61.9MB / 109MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.8MiB / 15.63GiB   1.28%     61MB / 1.78MB    0B / 0B          33
+36f71f295243   edge-broker           1.09%     146.8MiB / 15.63GiB   0.92%     63.4MB / 111MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.8MiB / 15.63GiB   1.28%     62.2MB / 1.79MB   0B / 0B          33
+36f71f295243   edge-broker           1.47%     146.8MiB / 15.63GiB   0.92%     64.6MB / 112MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     63MB / 1.79MB    0B / 0B          33
+36f71f295243   edge-broker           0.28%     146.8MiB / 15.63GiB   0.92%     65.5MB / 113MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.04%     204.8MiB / 15.63GiB   1.28%     63MB / 1.79MB    0B / 0B          33
+36f71f295243   edge-broker           0.41%     140.1MiB / 15.63GiB   0.88%     65.5MB / 113MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     63MB / 1.94MB    0B / 0B          33
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     65.7MB / 118MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     63MB / 1.94MB    0B / 0B          33
+36f71f295243   edge-broker           0.34%     139.9MiB / 15.63GiB   0.87%     65.7MB / 118MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     63MB / 1.94MB    0B / 0B          33
+36f71f295243   edge-broker           0.32%     140MiB / 15.63GiB     0.87%     65.7MB / 118MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.13%     204.8MiB / 15.63GiB   1.28%     63.3MB / 1.94MB   0B / 0B          33
+36f71f295243   edge-broker           0.35%     139.9MiB / 15.63GiB   0.87%     65.7MB / 118MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.8MiB / 15.63GiB   1.28%     64.1MB / 1.95MB   0B / 0B          33
+36f71f295243   edge-broker           0.70%     139.9MiB / 15.63GiB   0.87%     67MB / 119MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.8MiB / 15.63GiB   1.28%     65.5MB / 1.95MB   0B / 0B          33
+36f71f295243   edge-broker           0.64%     139.9MiB / 15.63GiB   0.87%     68.1MB / 120MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     204.8MiB / 15.63GiB   1.28%     66.9MB / 1.96MB   0B / 0B          33
+36f71f295243   edge-broker           0.89%     140.9MiB / 15.63GiB   0.88%     69.5MB / 122MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.04%     204.8MiB / 15.63GiB   1.28%     68MB / 1.97MB    0B / 0B          33
+36f71f295243   edge-broker           0.83%     142.4MiB / 15.63GiB   0.89%     70.8MB / 123MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     68MB / 1.97MB    0B / 0B          33
+36f71f295243   edge-broker           0.58%     142.4MiB / 15.63GiB   0.89%     70.8MB / 123MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     68MB / 1.97MB    0B / 0B          33
+36f71f295243   edge-broker           0.44%     142.4MiB / 15.63GiB   0.89%     70.8MB / 123MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     68MB / 1.97MB    0B / 0B          33
+36f71f295243   edge-broker           0.29%     142.4MiB / 15.63GiB   0.89%     70.8MB / 123MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   14.79%    204.8MiB / 15.63GiB   1.28%     68MB / 1.97MB   0B / 0B          33
+36f71f295243   edge-broker           1.44%     141.3MiB / 15.63GiB   0.88%     71MB / 128MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     68MB / 2.12MB   0B / 0B          33
+36f71f295243   edge-broker           0.41%     141.4MiB / 15.63GiB   0.88%     71MB / 128MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     68.7MB / 2.12MB   0B / 0B          33
+36f71f295243   edge-broker           1.42%     141.5MiB / 15.63GiB   0.88%     71.9MB / 129MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.15%     204.8MiB / 15.63GiB   1.28%     70MB / 2.13MB    0B / 0B          33
+36f71f295243   edge-broker           0.73%     142.2MiB / 15.63GiB   0.89%     73.2MB / 130MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.8MiB / 15.63GiB   1.28%     71.2MB / 2.13MB   0B / 0B          33
+36f71f295243   edge-broker           1.14%     143.8MiB / 15.63GiB   0.90%     74.4MB / 131MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.8MiB / 15.63GiB   1.28%     72.8MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.75%     146.5MiB / 15.63GiB   0.92%     75.7MB / 133MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     72.9MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     146.9MiB / 15.63GiB   0.92%     76MB / 133MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     72.9MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.31%     145.1MiB / 15.63GiB   0.91%     76MB / 133MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     72.9MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     140.5MiB / 15.63GiB   0.88%     76MB / 133MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     72.9MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.50%     140.3MiB / 15.63GiB   0.88%     76MB / 133MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     72.9MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.41%     140.3MiB / 15.63GiB   0.88%     76MB / 133MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     73.6MB / 2.14MB   0B / 0B          33
+36f71f295243   edge-broker           0.72%     140.3MiB / 15.63GiB   0.88%     76.6MB / 134MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.8MiB / 15.63GiB   1.28%     74.5MB / 2.3MB   0B / 0B          33
+36f71f295243   edge-broker           0.69%     140.2MiB / 15.63GiB   0.88%     77.9MB / 140MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.8MiB / 15.63GiB   1.28%     76.1MB / 2.31MB   0B / 0B          33
+36f71f295243   edge-broker           0.75%     140.5MiB / 15.63GiB   0.88%     79.2MB / 141MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.12%     204.8MiB / 15.63GiB   1.28%     77.5MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           1.06%     142.2MiB / 15.63GiB   0.89%     80.4MB / 142MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     77.9MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           1.18%     143.5MiB / 15.63GiB   0.90%     81.2MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     77.9MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           0.51%     143.6MiB / 15.63GiB   0.90%     81.2MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     77.9MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           1.11%     143.5MiB / 15.63GiB   0.90%     81.2MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     77.9MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     143.5MiB / 15.63GiB   0.90%     81.2MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.8MiB / 15.63GiB   1.28%     77.9MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           1.56%     143.3MiB / 15.63GiB   0.90%     81.2MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.8MiB / 15.63GiB   1.28%     78.4MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           1.05%     143.8MiB / 15.63GiB   0.90%     81.5MB / 143MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.15%     204.8MiB / 15.63GiB   1.28%     79.3MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           0.61%     142MiB / 15.63GiB     0.89%     82.6MB / 144MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     204.8MiB / 15.63GiB   1.28%     80.4MB / 2.32MB   0B / 0B          33
+36f71f295243   edge-broker           0.90%     142MiB / 15.63GiB     0.89%     84.1MB / 146MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.9MiB / 15.63GiB   1.28%     82MB / 2.48MB    0B / 0B          33
+36f71f295243   edge-broker           0.93%     142.5MiB / 15.63GiB   0.89%     85.4MB / 152MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     82.9MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.66%     142.9MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     82.9MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.37%     142.8MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     82.9MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     142.8MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     82.9MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.48%     142.9MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.04%     204.9MiB / 15.63GiB   1.28%     82.9MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     142.9MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.9MiB / 15.63GiB   1.28%     83.1MB / 2.49MB   0B / 0B          33
+36f71f295243   edge-broker           0.49%     142.9MiB / 15.63GiB   0.89%     86.5MB / 153MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     204.9MiB / 15.63GiB   1.28%     84MB / 2.49MB    0B / 0B          33
+36f71f295243   edge-broker           0.62%     143MiB / 15.63GiB     0.89%     87.4MB / 154MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     85.1MB / 2.5MB   0B / 0B          33
+36f71f295243   edge-broker           0.84%     143MiB / 15.63GiB     0.89%     88.7MB / 155MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.9MiB / 15.63GiB   1.28%     86.4MB / 2.5MB   0B / 0B          33
+36f71f295243   edge-broker           0.69%     143.1MiB / 15.63GiB   0.89%     90.1MB / 157MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     87.8MB / 2.51MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     143.5MiB / 15.63GiB   0.90%     91.2MB / 158MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88MB / 2.66MB    0B / 0B          33
+36f71f295243   edge-broker           0.45%     143.4MiB / 15.63GiB   0.90%     91.7MB / 163MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88MB / 2.66MB    0B / 0B          33
+36f71f295243   edge-broker           0.71%     143.5MiB / 15.63GiB   0.90%     91.7MB / 163MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88MB / 2.66MB    0B / 0B          33
+36f71f295243   edge-broker           0.45%     143.4MiB / 15.63GiB   0.90%     91.7MB / 163MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88MB / 2.66MB    0B / 0B          33
+36f71f295243   edge-broker           0.34%     142.1MiB / 15.63GiB   0.89%     91.7MB / 163MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88MB / 2.66MB    0B / 0B          33
+36f71f295243   edge-broker           0.36%     141.6MiB / 15.63GiB   0.88%     91.7MB / 163MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     88.6MB / 2.67MB   0B / 0B          33
+36f71f295243   edge-broker           0.98%     141.6MiB / 15.63GiB   0.88%     92.5MB / 164MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.9MiB / 15.63GiB   1.28%     89.7MB / 2.67MB   0B / 0B          33
+36f71f295243   edge-broker           0.51%     141.4MiB / 15.63GiB   0.88%     93.5MB / 165MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.9MiB / 15.63GiB   1.28%     91MB / 2.68MB    0B / 0B          33
+36f71f295243   edge-broker           0.79%     141.5MiB / 15.63GiB   0.88%     94.9MB / 167MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.16%     204.9MiB / 15.63GiB   1.28%     92.5MB / 2.68MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     141.3MiB / 15.63GiB   0.88%     96MB / 168MB      4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     93MB / 2.69MB    0B / 0B          33
+36f71f295243   edge-broker           0.44%     141.3MiB / 15.63GiB   0.88%     96.8MB / 168MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     93MB / 2.69MB    0B / 0B          33
+36f71f295243   edge-broker           0.60%     140.9MiB / 15.63GiB   0.88%     96.8MB / 168MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   16.10%    204.9MiB / 15.63GiB   1.28%     93MB / 2.84MB    0B / 0B          33
+36f71f295243   edge-broker           0.74%     140.5MiB / 15.63GiB   0.88%     96.8MB / 168MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     93MB / 2.84MB   0B / 0B          33
+36f71f295243   edge-broker           0.69%     140.5MiB / 15.63GiB   0.88%     97MB / 174MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     93MB / 2.84MB   0B / 0B          33
+36f71f295243   edge-broker           0.56%     140.5MiB / 15.63GiB   0.88%     97MB / 174MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.9MiB / 15.63GiB   1.28%     93.3MB / 2.85MB   0B / 0B          33
+36f71f295243   edge-broker           1.49%     140.3MiB / 15.63GiB   0.88%     97.7MB / 174MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     94.6MB / 2.85MB   0B / 0B          33
+36f71f295243   edge-broker           0.93%     140.3MiB / 15.63GiB   0.88%     98.5MB / 175MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.9MiB / 15.63GiB   1.28%     95.9MB / 2.86MB   0B / 0B          33
+36f71f295243   edge-broker           1.08%     141MiB / 15.63GiB     0.88%     99.8MB / 176MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.9MiB / 15.63GiB   1.28%     97.1MB / 2.86MB   0B / 0B          33
+36f71f295243   edge-broker           0.93%     143.5MiB / 15.63GiB   0.90%     101MB / 178MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 2.87MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     145.4MiB / 15.63GiB   0.91%     102MB / 179MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 2.87MB   0B / 0B          33
+36f71f295243   edge-broker           0.37%     145.4MiB / 15.63GiB   0.91%     102MB / 179MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 2.87MB   0B / 0B          33
+36f71f295243   edge-broker           0.58%     145.4MiB / 15.63GiB   0.91%     102MB / 179MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 2.87MB   0B / 0B          33
+36f71f295243   edge-broker           0.27%     142MiB / 15.63GiB     0.89%     102MB / 179MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 2.87MB   0B / 0B          33
+36f71f295243   edge-broker           0.30%     140.5MiB / 15.63GiB   0.88%     102MB / 179MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     98.1MB / 3.02MB   0B / 0B          33
+36f71f295243   edge-broker           0.67%     140.5MiB / 15.63GiB   0.88%     103MB / 184MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.12%     204.9MiB / 15.63GiB   1.28%     99.3MB / 3.03MB   0B / 0B          33
+36f71f295243   edge-broker           0.73%     140.5MiB / 15.63GiB   0.88%     103MB / 185MB     4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     204.9MiB / 15.63GiB   1.28%     100MB / 3.03MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     141.3MiB / 15.63GiB   0.88%     105MB / 186MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     204.9MiB / 15.63GiB   1.28%     102MB / 3.04MB   0B / 0B          33
+36f71f295243   edge-broker           0.84%     143.9MiB / 15.63GiB   0.90%     106MB / 188MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.18%     204.9MiB / 15.63GiB   1.28%     103MB / 3.04MB   0B / 0B          33
+36f71f295243   edge-broker           0.67%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     103MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.60%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     103MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.41%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     103MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.66%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     103MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.38%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     103MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     146.6MiB / 15.63GiB   0.92%     107MB / 189MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     204.9MiB / 15.63GiB   1.28%     104MB / 3.05MB   0B / 0B          33
+36f71f295243   edge-broker           0.61%     146.4MiB / 15.63GiB   0.91%     108MB / 190MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     105MB / 3.21MB   0B / 0B          33
+36f71f295243   edge-broker           0.74%     146.3MiB / 15.63GiB   0.91%     109MB / 196MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.12%     204.9MiB / 15.63GiB   1.28%     106MB / 3.22MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     146.4MiB / 15.63GiB   0.91%     111MB / 197MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     108MB / 3.22MB   0B / 0B          33
+36f71f295243   edge-broker           0.75%     146.4MiB / 15.63GiB   0.91%     112MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     108MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     147MiB / 15.63GiB     0.92%     113MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     108MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     147MiB / 15.63GiB     0.92%     113MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     108MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.42%     147MiB / 15.63GiB     0.92%     113MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     108MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.60%     147MiB / 15.63GiB     0.92%     113MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     204.9MiB / 15.63GiB   1.28%     108MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.31%     147.1MiB / 15.63GiB   0.92%     113MB / 199MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     204.9MiB / 15.63GiB   1.28%     109MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           1.30%     147.6MiB / 15.63GiB   0.92%     113MB / 200MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     110MB / 3.23MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     149.3MiB / 15.63GiB   0.93%     114MB / 201MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     204.9MiB / 15.63GiB   1.28%     111MB / 3.24MB   0B / 0B          33
+36f71f295243   edge-broker           0.82%     151.2MiB / 15.63GiB   0.94%     116MB / 202MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     205.1MiB / 15.63GiB   1.28%     113MB / 3.4MB   0B / 0B          33
+36f71f295243   edge-broker           1.40%     151.5MiB / 15.63GiB   0.95%     117MB / 208MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.41%     151.8MiB / 15.63GiB   0.95%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.68%     151.8MiB / 15.63GiB   0.95%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.57%     151.8MiB / 15.63GiB   0.95%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.64%     146.5MiB / 15.63GiB   0.92%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.04%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     146.3MiB / 15.63GiB   0.91%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     205.1MiB / 15.63GiB   1.28%     113MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.58%     146MiB / 15.63GiB     0.91%     118MB / 209MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     205.1MiB / 15.63GiB   1.28%     114MB / 3.41MB   0B / 0B          33
+36f71f295243   edge-broker           0.58%     143.1MiB / 15.63GiB   0.89%     119MB / 211MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.02%     205.1MiB / 15.63GiB   1.28%     116MB / 3.42MB   0B / 0B          33
+36f71f295243   edge-broker           0.89%     143MiB / 15.63GiB     0.89%     121MB / 212MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     205.1MiB / 15.63GiB   1.28%     117MB / 3.42MB   0B / 0B          33
+36f71f295243   edge-broker           0.81%     142.9MiB / 15.63GiB   0.89%     122MB / 213MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     118MB / 3.43MB   0B / 0B          33
+36f71f295243   edge-broker           1.15%     143.1MiB / 15.63GiB   0.89%     123MB / 215MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     118MB / 3.43MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     142.9MiB / 15.63GiB   0.89%     123MB / 215MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     118MB / 3.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.48%     142.3MiB / 15.63GiB   0.89%     124MB / 220MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.05%     205.1MiB / 15.63GiB   1.28%     118MB / 3.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.38%     142.3MiB / 15.63GiB   0.89%     124MB / 220MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     118MB / 3.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.57%     141.9MiB / 15.63GiB   0.89%     124MB / 220MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     118MB / 3.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     141.5MiB / 15.63GiB   0.88%     124MB / 220MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     205.1MiB / 15.63GiB   1.28%     119MB / 3.59MB   0B / 0B          33
+36f71f295243   edge-broker           0.96%     141.2MiB / 15.63GiB   0.88%     124MB / 221MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.15%     205.1MiB / 15.63GiB   1.28%     121MB / 3.6MB   0B / 0B          33
+36f71f295243   edge-broker           0.79%     141.2MiB / 15.63GiB   0.88%     125MB / 222MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.1MiB / 15.63GiB   1.28%     122MB / 3.6MB   0B / 0B          33
+36f71f295243   edge-broker           0.98%     141.2MiB / 15.63GiB   0.88%     127MB / 223MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     205.1MiB / 15.63GiB   1.28%     123MB / 3.61MB   0B / 0B          33
+36f71f295243   edge-broker           0.78%     141.2MiB / 15.63GiB   0.88%     128MB / 224MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     124MB / 3.61MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     141.2MiB / 15.63GiB   0.88%     129MB / 225MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.05%     205.1MiB / 15.63GiB   1.28%     124MB / 3.61MB   0B / 0B          33
+36f71f295243   edge-broker           0.46%     141.2MiB / 15.63GiB   0.88%     129MB / 225MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     124MB / 3.61MB   0B / 0B          33
+36f71f295243   edge-broker           0.30%     141.2MiB / 15.63GiB   0.88%     129MB / 225MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     124MB / 3.77MB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     141.1MiB / 15.63GiB   0.88%     129MB / 230MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     124MB / 3.77MB   0B / 0B          33
+36f71f295243   edge-broker           0.25%     141.1MiB / 15.63GiB   0.88%     129MB / 230MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     205.1MiB / 15.63GiB   1.28%     124MB / 3.77MB   0B / 0B          33
+36f71f295243   edge-broker           0.77%     141MiB / 15.63GiB     0.88%     130MB / 231MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     205.1MiB / 15.63GiB   1.28%     125MB / 3.78MB   0B / 0B          33
+36f71f295243   edge-broker           0.61%     141MiB / 15.63GiB     0.88%     131MB / 232MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     205.1MiB / 15.63GiB   1.28%     127MB / 3.78MB   0B / 0B          33
+36f71f295243   edge-broker           0.81%     141.1MiB / 15.63GiB   0.88%     132MB / 233MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     205.1MiB / 15.63GiB   1.28%     128MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     140.1MiB / 15.63GiB   0.88%     133MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     129MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.46%     141MiB / 15.63GiB     0.88%     134MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     129MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.46%     141.1MiB / 15.63GiB   0.88%     134MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     129MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.45%     140.6MiB / 15.63GiB   0.88%     134MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     129MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.43%     140.3MiB / 15.63GiB   0.88%     134MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     129MB / 3.79MB   0B / 0B          33
+36f71f295243   edge-broker           0.47%     140MiB / 15.63GiB     0.87%     134MB / 235MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     205.1MiB / 15.63GiB   1.28%     129MB / 3.96MB   0B / 0B          33
+36f71f295243   edge-broker           1.27%     140.1MiB / 15.63GiB   0.88%     135MB / 241MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     205.1MiB / 15.63GiB   1.28%     130MB / 3.96MB   0B / 0B          33
+36f71f295243   edge-broker           0.74%     140.5MiB / 15.63GiB   0.88%     136MB / 242MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.19%     205.1MiB / 15.63GiB   1.28%     132MB / 3.97MB   0B / 0B          33
+36f71f295243   edge-broker           0.83%     140.8MiB / 15.63GiB   0.88%     137MB / 243MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.11%     205.1MiB / 15.63GiB   1.28%     133MB / 3.97MB   0B / 0B          33
+36f71f295243   edge-broker           0.77%     143.5MiB / 15.63GiB   0.90%     139MB / 245MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     145MiB / 15.63GiB     0.91%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.02%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.51%     144.8MiB / 15.63GiB   0.90%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.72%     144.8MiB / 15.63GiB   0.90%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.44%     143MiB / 15.63GiB     0.89%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.37%     140.7MiB / 15.63GiB   0.88%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     134MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     140.7MiB / 15.63GiB   0.88%     140MB / 246MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.1MiB / 15.63GiB   1.28%     135MB / 3.98MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     140.7MiB / 15.63GiB   0.88%     140MB / 247MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.1MiB / 15.63GiB   1.28%     136MB / 4.15MB   0B / 0B          33
+36f71f295243   edge-broker           1.31%     141.1MiB / 15.63GiB   0.88%     142MB / 253MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.14%     205.1MiB / 15.63GiB   1.28%     138MB / 4.15MB   0B / 0B          33
+36f71f295243   edge-broker           0.92%     142.1MiB / 15.63GiB   0.89%     143MB / 255MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           1.46%     145.1MiB / 15.63GiB   0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     145.3MiB / 15.63GiB   0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.64%     145.6MiB / 15.63GiB   0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.64%     145.4MiB / 15.63GiB   0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.28%     145.4MiB / 15.63GiB   0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.1MiB / 15.63GiB   1.28%     139MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.52%     145MiB / 15.63GiB     0.91%     145MB / 256MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     205.1MiB / 15.63GiB   1.28%     140MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           0.41%     141.7MiB / 15.63GiB   0.89%     146MB / 257MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     205.1MiB / 15.63GiB   1.28%     141MB / 4.16MB   0B / 0B          33
+36f71f295243   edge-broker           1.02%     142.5MiB / 15.63GiB   0.89%     147MB / 258MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.1MiB / 15.63GiB   1.28%     142MB / 4.17MB   0B / 0B          33
+36f71f295243   edge-broker           0.65%     143.9MiB / 15.63GiB   0.90%     148MB / 259MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.14%     205.5MiB / 15.63GiB   1.28%     144MB / 4.17MB   0B / 0B          33
+36f71f295243   edge-broker           0.32%     144.2MiB / 15.63GiB   0.90%     150MB / 261MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     144MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     144.4MiB / 15.63GiB   0.90%     150MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     144MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     144.3MiB / 15.63GiB   0.90%     150MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     144MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.67%     144.4MiB / 15.63GiB   0.90%     150MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.02%     205.7MiB / 15.63GiB   1.28%     144MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.47%     143.7MiB / 15.63GiB   0.90%     150MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     144MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.67%     142.3MiB / 15.63GiB   0.89%     150MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.7MiB / 15.63GiB   1.28%     145MB / 4.34MB   0B / 0B          33
+36f71f295243   edge-broker           0.70%     142.1MiB / 15.63GiB   0.89%     151MB / 267MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     146MB / 4.35MB   0B / 0B          33
+36f71f295243   edge-broker           1.10%     142.1MiB / 15.63GiB   0.89%     152MB / 268MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.15%     205.7MiB / 15.63GiB   1.28%     147MB / 4.35MB   0B / 0B          33
+36f71f295243   edge-broker           0.89%     142.6MiB / 15.63GiB   0.89%     153MB / 270MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.08%     205.7MiB / 15.63GiB   1.28%     148MB / 4.36MB   0B / 0B          33
+36f71f295243   edge-broker           0.53%     143.1MiB / 15.63GiB   0.89%     155MB / 271MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     149MB / 4.36MB   0B / 0B          33
+36f71f295243   edge-broker           0.30%     144MiB / 15.63GiB     0.90%     156MB / 272MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     149MB / 4.36MB   0B / 0B          33
+36f71f295243   edge-broker           1.61%     144MiB / 15.63GiB     0.90%     156MB / 272MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     149MB / 4.52MB   0B / 0B          33
+36f71f295243   edge-broker           0.40%     144.3MiB / 15.63GiB   0.90%     156MB / 277MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     149MB / 4.52MB   0B / 0B          33
+36f71f295243   edge-broker           0.32%     144.3MiB / 15.63GiB   0.90%     156MB / 277MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     149MB / 4.52MB   0B / 0B          33
+36f71f295243   edge-broker           0.39%     143.5MiB / 15.63GiB   0.90%     156MB / 277MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     205.7MiB / 15.63GiB   1.28%     150MB / 4.52MB   0B / 0B          33
+36f71f295243   edge-broker           1.23%     142.1MiB / 15.63GiB   0.89%     156MB / 277MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.7MiB / 15.63GiB   1.28%     151MB / 4.53MB   0B / 0B          33
+36f71f295243   edge-broker           0.88%     142.3MiB / 15.63GiB   0.89%     157MB / 279MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.09%     205.7MiB / 15.63GiB   1.28%     152MB / 4.53MB   0B / 0B          33
+36f71f295243   edge-broker           1.13%     142.6MiB / 15.63GiB   0.89%     158MB / 280MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.06%     205.7MiB / 15.63GiB   1.28%     153MB / 4.54MB   0B / 0B          33
+36f71f295243   edge-broker           1.10%     144.7MiB / 15.63GiB   0.90%     160MB / 281MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.54MB   0B / 0B          33
+36f71f295243   edge-broker           1.03%     144.9MiB / 15.63GiB   0.91%     161MB / 282MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.54MB   0B / 0B          33
+36f71f295243   edge-broker           0.34%     143.7MiB / 15.63GiB   0.90%     161MB / 282MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.04%     205.7MiB / 15.63GiB   1.28%     155MB / 4.54MB   0B / 0B          33
+36f71f295243   edge-broker           0.27%     143.7MiB / 15.63GiB   0.90%     161MB / 282MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.54MB   0B / 0B          33
+36f71f295243   edge-broker           0.50%     140.5MiB / 15.63GiB   0.88%     161MB / 282MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.71MB   0B / 0B          33
+36f71f295243   edge-broker           0.27%     140.4MiB / 15.63GiB   0.88%     161MB / 288MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.71MB   0B / 0B          33
+36f71f295243   edge-broker           0.42%     140.4MiB / 15.63GiB   0.88%     161MB / 288MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     155MB / 4.71MB   0B / 0B          33
+36f71f295243   edge-broker           0.55%     141.2MiB / 15.63GiB   0.88%     162MB / 289MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.07%     205.7MiB / 15.63GiB   1.28%     157MB / 4.72MB   0B / 0B          33
+36f71f295243   edge-broker           0.98%     141.2MiB / 15.63GiB   0.88%     163MB / 290MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     158MB / 4.72MB   0B / 0B          33
+36f71f295243   edge-broker           0.79%     142.6MiB / 15.63GiB   0.89%     165MB / 291MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.10%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           1.50%     145.3MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           0.36%     145.9MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           0.48%     145.9MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           0.28%     146.1MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     145.7MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.73MB   0B / 0B          33
+36f71f295243   edge-broker           0.48%     145.7MiB / 15.63GiB   0.91%     166MB / 293MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   16.55%    205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.63%     142.2MiB / 15.63GiB   0.89%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.82%     142.2MiB / 15.63GiB   0.89%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.93%     142.1MiB / 15.63GiB   0.89%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.71%     140.8MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.29%     140.1MiB / 15.63GiB   0.87%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.68%     140.1MiB / 15.63GiB   0.87%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.31%     140.1MiB / 15.63GiB   0.87%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.30%     140.1MiB / 15.63GiB   0.87%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     140.1MiB / 15.63GiB   0.87%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.51%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.33%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.32%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.28%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.56%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.01%     205.7MiB / 15.63GiB   1.28%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.96%     205.8MiB / 15.63GiB   1.29%     160MB / 4.89MB   0B / 0B          33
+36f71f295243   edge-broker           0.44%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB    4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.31%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.39%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.51%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.35%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.21%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.23%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.44%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.21%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.40%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.48%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.22%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.25%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.22%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.42%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.63%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.26%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.63%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.35%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.42%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.51%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.36%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.26%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           1.72%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.45%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.31%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.32%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.27%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.25%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.64%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.60%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.34%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.48%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.49%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.34%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.29%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.46%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.58%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.23%     140.1MiB / 15.63GiB   0.88%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.41%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.40%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.23%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.23%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.38%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.29%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.27%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.26%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.94%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.45%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.30%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.32%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.76%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.65%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.26%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.40%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.45%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.46%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.21%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.27%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.29%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.42%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.47%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.29%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.31%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.54%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.22%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.21%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.39%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.37%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.79%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.57%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.32%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.30%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.35%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.65%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.52%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.33%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.18%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           1.25%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.58%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.21%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.18%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.54%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.54%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.17%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.38%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.18%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.68%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.61%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.22%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.20%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.64%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.48%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.24%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.20%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.18%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.44%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.28%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.19%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
+CONTAINER ID   NAME                  CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+b0b38fd5ff59   server-src_server_1   0.00%     0B / 0B               0.00%     0B / 0B         0B / 0B          0
+36f71f295243   edge-broker           0.54%     139.9MiB / 15.63GiB   0.87%     167MB / 298MB   4.1kB / 27.9MB   43
