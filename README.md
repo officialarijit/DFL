@@ -1,4 +1,4 @@
-# A Federated Learning Implementation in an HPC Environment for Real-time Emotion State Classification from Multi-modal Streaming
+# A Docker-Based Federated Learning Framework Design and Deployment for Multi-modal Data Stream Classification
 
 ## Publication link: work in progress
 
