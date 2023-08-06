@@ -30,8 +30,21 @@
 ## NOTE*: Please feel free to use the code by giving proper citation and star to this repository.
 
 # Cite this work: 
-    @article{
-    }
+    @Article{Nandi2023,
+      author={Nandi, Arijit
+      and Xhafa, Fatos
+      and Kumar, Rohit},
+      title={A Docker-based federated learning framework design and deployment for multi-modal data stream classification},
+      journal={Computing},
+      year={2023},
+      month={May},
+      day={11},
+      issn={1436-5057},
+      doi={10.1007/s00607-023-01179-5},
+      url={https://doi.org/10.1007/s00607-023-01179-5}
+      }
+
+
 
 
 ## 📝 License
